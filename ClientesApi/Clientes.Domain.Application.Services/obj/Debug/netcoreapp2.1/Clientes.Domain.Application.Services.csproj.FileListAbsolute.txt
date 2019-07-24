@@ -30,3 +30,19 @@ C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.csproj.CopyComplete
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.dll
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.deps.json
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.csprojAssemblyReference.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.AssemblyInfoInputs.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.AssemblyInfo.cs
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.csproj.CopyComplete
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.pdb

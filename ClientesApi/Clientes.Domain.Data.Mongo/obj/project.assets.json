@@ -5546,11 +5546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Domain.Data.Mongo\\Clientes.Domain.Data.Mongo.csproj",
+      "projectUniqueName": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Domain.Data.Mongo\\Clientes.Domain.Data.Mongo.csproj",
       "projectName": "Clientes.Domain.Data.Mongo",
-      "projectPath": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Domain.Data.Mongo\\Clientes.Domain.Data.Mongo.csproj",
+      "projectPath": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Domain.Data.Mongo\\Clientes.Domain.Data.Mongo.csproj",
       "packagesPath": "C:\\Users\\marcelo.barbosa\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Domain.Data.Mongo\\obj\\",
+      "outputPath": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Domain.Data.Mongo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5569,8 +5569,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Domain.Data.Entities\\Clientes.Domain.Data.Entities.csproj": {
-              "projectPath": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Domain.Data.Entities\\Clientes.Domain.Data.Entities.csproj"
+            "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Domain.Data.Entities\\Clientes.Domain.Data.Entities.csproj": {
+              "projectPath": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Domain.Data.Entities\\Clientes.Domain.Data.Entities.csproj"
             }
           }
         }

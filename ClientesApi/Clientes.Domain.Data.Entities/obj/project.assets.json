@@ -3260,11 +3260,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Domain.Data.Entities\\Clientes.Domain.Data.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Domain.Data.Entities\\Clientes.Domain.Data.Entities.csproj",
       "projectName": "Clientes.Domain.Data.Entities",
-      "projectPath": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Domain.Data.Entities\\Clientes.Domain.Data.Entities.csproj",
+      "projectPath": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Domain.Data.Entities\\Clientes.Domain.Data.Entities.csproj",
       "packagesPath": "C:\\Users\\marcelo.barbosa\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Domain.Data.Entities\\obj\\",
+      "outputPath": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Domain.Data.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3283,8 +3283,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Framework\\Clientes.Framework.csproj": {
-              "projectPath": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Framework\\Clientes.Framework.csproj"
+            "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Framework\\Clientes.Framework.csproj": {
+              "projectPath": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Framework\\Clientes.Framework.csproj"
             }
           }
         }

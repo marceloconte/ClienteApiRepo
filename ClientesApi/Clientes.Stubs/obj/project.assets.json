@@ -3279,11 +3279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Stubs\\Clientes.Stubs.csproj",
+      "projectUniqueName": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Stubs\\Clientes.Stubs.csproj",
       "projectName": "Clientes.Stubs",
-      "projectPath": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Stubs\\Clientes.Stubs.csproj",
+      "projectPath": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Stubs\\Clientes.Stubs.csproj",
       "packagesPath": "C:\\Users\\marcelo.barbosa\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Stubs\\obj\\",
+      "outputPath": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Stubs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3302,11 +3302,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Domain.Data.Entities\\Clientes.Domain.Data.Entities.csproj": {
-              "projectPath": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Domain.Data.Entities\\Clientes.Domain.Data.Entities.csproj"
+            "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Domain.Data.Entities\\Clientes.Domain.Data.Entities.csproj": {
+              "projectPath": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Domain.Data.Entities\\Clientes.Domain.Data.Entities.csproj"
             },
-            "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Framework\\Clientes.Framework.csproj": {
-              "projectPath": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Framework\\Clientes.Framework.csproj"
+            "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Framework\\Clientes.Framework.csproj": {
+              "projectPath": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Framework\\Clientes.Framework.csproj"
             }
           }
         }

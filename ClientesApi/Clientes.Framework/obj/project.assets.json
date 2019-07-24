@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Framework\\Clientes.Framework.csproj",
+      "projectUniqueName": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Framework\\Clientes.Framework.csproj",
       "projectName": "Clientes.Framework",
-      "projectPath": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Framework\\Clientes.Framework.csproj",
+      "projectPath": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Framework\\Clientes.Framework.csproj",
       "packagesPath": "C:\\Users\\marcelo.barbosa\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Framework\\obj\\",
+      "outputPath": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Framework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

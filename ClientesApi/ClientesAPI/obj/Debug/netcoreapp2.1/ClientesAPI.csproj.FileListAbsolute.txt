@@ -44,3 +44,26 @@ C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\C
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.csproj.CopyComplete
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.dll
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\ClientesAPI.deps.json
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\ClientesAPI.runtimeconfig.json
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\ClientesAPI.runtimeconfig.dev.json
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\ClientesAPI.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\ClientesAPI.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.csprojAssemblyReference.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.RazorAssemblyInfo.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.RazorAssemblyInfo.cs
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.AssemblyInfoInputs.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.AssemblyInfo.cs
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.csproj.CopyComplete
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.pdb

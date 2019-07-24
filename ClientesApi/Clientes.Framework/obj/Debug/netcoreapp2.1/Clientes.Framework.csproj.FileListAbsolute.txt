@@ -16,3 +16,12 @@ C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Framework\obj\Debug\netcorea
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.AssemblyInfo.cs
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.dll
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Framework\bin\Debug\netcoreapp2.1\Clientes.Framework.deps.json
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Framework\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Framework\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.csprojAssemblyReference.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.AssemblyInfoInputs.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.AssemblyInfo.cs
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.pdb

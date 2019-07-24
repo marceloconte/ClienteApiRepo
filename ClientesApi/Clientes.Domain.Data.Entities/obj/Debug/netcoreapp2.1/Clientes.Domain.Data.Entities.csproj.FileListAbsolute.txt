@@ -22,3 +22,15 @@ C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Entities\obj\Deb
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.csproj.CopyComplete
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Entities\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.deps.json
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Entities\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Entities\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Entities\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Entities\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.csprojAssemblyReference.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.AssemblyInfoInputs.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.AssemblyInfo.cs
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.csproj.CopyComplete
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb

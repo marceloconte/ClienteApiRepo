@@ -26,3 +26,17 @@ C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.csproj.CopyComplete
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.dll
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.deps.json
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.csprojAssemblyReference.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.AssemblyInfoInputs.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.AssemblyInfo.cs
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.csproj.CopyComplete
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.pdb

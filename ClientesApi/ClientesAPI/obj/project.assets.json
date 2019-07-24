@@ -12926,11 +12926,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\ClientesAPI\\ClientesAPI.csproj",
+      "projectUniqueName": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\ClientesAPI\\ClientesAPI.csproj",
       "projectName": "ClientesAPI",
-      "projectPath": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\ClientesAPI\\ClientesAPI.csproj",
+      "projectPath": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\ClientesAPI\\ClientesAPI.csproj",
       "packagesPath": "C:\\Users\\marcelo.barbosa\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\ClientesAPI\\obj\\",
+      "outputPath": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\ClientesAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12949,8 +12949,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Domain.Application.Services\\Clientes.Domain.Application.Services.csproj": {
-              "projectPath": "C:\\PROJETOS LOCAIS\\ClientesApi\\ClientesApi\\Clientes.Domain.Application.Services\\Clientes.Domain.Application.Services.csproj"
+            "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Domain.Application.Services\\Clientes.Domain.Application.Services.csproj": {
+              "projectPath": "C:\\Users\\marcelo.barbosa\\ClienteApiRepo\\ClientesApi\\Clientes.Domain.Application.Services\\Clientes.Domain.Application.Services.csproj"
             }
           }
         }
