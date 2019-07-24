@@ -1,0 +1,28 @@
+C:\ProjetoGitLab\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.deps.json
+C:\ProjetoGitLab\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.dll
+C:\ProjetoGitLab\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.pdb
+C:\ProjetoGitLab\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\ProjetoGitLab\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\ProjetoGitLab\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.csprojAssemblyReference.cache
+C:\ProjetoGitLab\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.csproj.CoreCompileInputs.cache
+C:\ProjetoGitLab\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.AssemblyInfoInputs.cache
+C:\ProjetoGitLab\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.AssemblyInfo.cs
+C:\ProjetoGitLab\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.csproj.CopyComplete
+C:\ProjetoGitLab\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.dll
+C:\ProjetoGitLab\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.pdb
+C:\ProjetoGitLab\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\ProjetoGitLab\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.deps.json
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.csprojAssemblyReference.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.csproj.CoreCompileInputs.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.AssemblyInfoInputs.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.AssemblyInfo.cs
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.csproj.CopyComplete
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Mongo\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.pdb

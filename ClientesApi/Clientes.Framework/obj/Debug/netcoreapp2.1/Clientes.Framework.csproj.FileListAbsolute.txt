@@ -1,0 +1,18 @@
+C:\ProjetoGitLab\Clientes.Framework\bin\Debug\netcoreapp2.1\Clientes.Framework.deps.json
+C:\ProjetoGitLab\Clientes.Framework\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\ProjetoGitLab\Clientes.Framework\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\ProjetoGitLab\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.csproj.CoreCompileInputs.cache
+C:\ProjetoGitLab\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.AssemblyInfoInputs.cache
+C:\ProjetoGitLab\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.AssemblyInfo.cs
+C:\ProjetoGitLab\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\ProjetoGitLab\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\ProjetoGitLab\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.csprojAssemblyReference.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Framework\bin\Debug\netcoreapp2.1\Clientes.Framework.deps.json
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Framework\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Framework\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.csprojAssemblyReference.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.csproj.CoreCompileInputs.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.AssemblyInfoInputs.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.AssemblyInfo.cs
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Framework\obj\Debug\netcoreapp2.1\Clientes.Framework.pdb

@@ -1,0 +1,46 @@
+C:\ProjetoGitLab\ClientesAPI\bin\Debug\netcoreapp2.1\ClientesAPI.deps.json
+C:\ProjetoGitLab\ClientesAPI\bin\Debug\netcoreapp2.1\ClientesAPI.runtimeconfig.json
+C:\ProjetoGitLab\ClientesAPI\bin\Debug\netcoreapp2.1\ClientesAPI.runtimeconfig.dev.json
+C:\ProjetoGitLab\ClientesAPI\bin\Debug\netcoreapp2.1\ClientesAPI.dll
+C:\ProjetoGitLab\ClientesAPI\bin\Debug\netcoreapp2.1\ClientesAPI.pdb
+C:\ProjetoGitLab\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.dll
+C:\ProjetoGitLab\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\ProjetoGitLab\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.dll
+C:\ProjetoGitLab\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.pdb
+C:\ProjetoGitLab\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\ProjetoGitLab\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.pdb
+C:\ProjetoGitLab\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.csprojAssemblyReference.cache
+C:\ProjetoGitLab\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.csproj.CoreCompileInputs.cache
+C:\ProjetoGitLab\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.RazorAssemblyInfo.cache
+C:\ProjetoGitLab\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.RazorAssemblyInfo.cs
+C:\ProjetoGitLab\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.AssemblyInfoInputs.cache
+C:\ProjetoGitLab\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.AssemblyInfo.cs
+C:\ProjetoGitLab\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.RazorTargetAssemblyInfo.cache
+C:\ProjetoGitLab\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.csproj.CopyComplete
+C:\ProjetoGitLab\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.dll
+C:\ProjetoGitLab\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.pdb
+C:\ProjetoGitLab\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\ProjetoGitLab\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\ClientesAPI.deps.json
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\ClientesAPI.runtimeconfig.json
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\ClientesAPI.runtimeconfig.dev.json
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\ClientesAPI.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\ClientesAPI.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.csprojAssemblyReference.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.csproj.CoreCompileInputs.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.RazorAssemblyInfo.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.RazorAssemblyInfo.cs
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.AssemblyInfoInputs.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.AssemblyInfo.cs
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.RazorTargetAssemblyInfo.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.csproj.CopyComplete
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\ClientesAPI\obj\Debug\netcoreapp2.1\ClientesAPI.pdb

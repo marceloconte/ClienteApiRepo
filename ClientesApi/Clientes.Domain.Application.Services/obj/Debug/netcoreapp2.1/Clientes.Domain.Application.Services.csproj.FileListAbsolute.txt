@@ -1,0 +1,32 @@
+C:\ProjetoGitLab\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.deps.json
+C:\ProjetoGitLab\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.dll
+C:\ProjetoGitLab\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.pdb
+C:\ProjetoGitLab\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\ProjetoGitLab\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.dll
+C:\ProjetoGitLab\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.pdb
+C:\ProjetoGitLab\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\ProjetoGitLab\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.csprojAssemblyReference.cache
+C:\ProjetoGitLab\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.csproj.CoreCompileInputs.cache
+C:\ProjetoGitLab\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.AssemblyInfoInputs.cache
+C:\ProjetoGitLab\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.AssemblyInfo.cs
+C:\ProjetoGitLab\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.csproj.CopyComplete
+C:\ProjetoGitLab\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.dll
+C:\ProjetoGitLab\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.pdb
+C:\ProjetoGitLab\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\ProjetoGitLab\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.deps.json
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.csprojAssemblyReference.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.csproj.CoreCompileInputs.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.AssemblyInfoInputs.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.AssemblyInfo.cs
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.csproj.CopyComplete
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Application.Services\obj\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.pdb

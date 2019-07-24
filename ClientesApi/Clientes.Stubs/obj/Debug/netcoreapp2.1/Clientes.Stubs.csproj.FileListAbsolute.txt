@@ -1,0 +1,28 @@
+C:\ProjetoGitLab\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Stubs.deps.json
+C:\ProjetoGitLab\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Stubs.dll
+C:\ProjetoGitLab\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Stubs.pdb
+C:\ProjetoGitLab\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\ProjetoGitLab\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\ProjetoGitLab\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\ProjetoGitLab\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\ProjetoGitLab\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.csprojAssemblyReference.cache
+C:\ProjetoGitLab\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.csproj.CoreCompileInputs.cache
+C:\ProjetoGitLab\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.AssemblyInfoInputs.cache
+C:\ProjetoGitLab\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.AssemblyInfo.cs
+C:\ProjetoGitLab\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.csproj.CopyComplete
+C:\ProjetoGitLab\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.dll
+C:\ProjetoGitLab\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Stubs.deps.json
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Stubs.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Stubs.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.csprojAssemblyReference.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.csproj.CoreCompileInputs.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.AssemblyInfoInputs.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.AssemblyInfo.cs
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.csproj.CopyComplete
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.pdb

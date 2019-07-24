@@ -1,0 +1,54 @@
+C:\ProjetoGitLab\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.csprojAssemblyReference.cache
+C:\ProjetoGitLab\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.csproj.CoreCompileInputs.cache
+C:\ProjetoGitLab\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.AssemblyInfoInputs.cache
+C:\ProjetoGitLab\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.AssemblyInfo.cs
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Test.deps.json
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Test.runtimeconfig.json
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Test.runtimeconfig.dev.json
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Test.dll
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.dll
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.dll
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\ClientesAPI.dll
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.pdb
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.pdb
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\ClientesAPI.pdb
+C:\ProjetoGitLab\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.csproj.CopyComplete
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Test.pdb
+C:\ProjetoGitLab\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.dll
+C:\ProjetoGitLab\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.pdb
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Stubs.dll
+C:\ProjetoGitLab\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Stubs.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Test.deps.json
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Test.runtimeconfig.json
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Test.runtimeconfig.dev.json
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Test.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Test.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Stubs.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\ClientesAPI.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Stubs.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\ClientesAPI.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.csprojAssemblyReference.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.csproj.CoreCompileInputs.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.AssemblyInfoInputs.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.AssemblyInfo.cs
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.csproj.CopyComplete
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.pdb

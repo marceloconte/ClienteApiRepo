@@ -1,0 +1,24 @@
+C:\ProjetoGitLab\Clientes.Domain.Data.Entities\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.deps.json
+C:\ProjetoGitLab\Clientes.Domain.Data.Entities\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\ProjetoGitLab\Clientes.Domain.Data.Entities\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\ProjetoGitLab\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.csproj.CoreCompileInputs.cache
+C:\ProjetoGitLab\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.AssemblyInfoInputs.cache
+C:\ProjetoGitLab\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.AssemblyInfo.cs
+C:\ProjetoGitLab\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\ProjetoGitLab\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\ProjetoGitLab\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.csprojAssemblyReference.cache
+C:\ProjetoGitLab\Clientes.Domain.Data.Entities\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\ProjetoGitLab\Clientes.Domain.Data.Entities\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\ProjetoGitLab\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.csproj.CopyComplete
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Entities\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.deps.json
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Entities\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Entities\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Entities\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Entities\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.csprojAssemblyReference.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.csproj.CoreCompileInputs.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.AssemblyInfoInputs.cache
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.AssemblyInfo.cs
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.csproj.CopyComplete
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Domain.Data.Entities\obj\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
