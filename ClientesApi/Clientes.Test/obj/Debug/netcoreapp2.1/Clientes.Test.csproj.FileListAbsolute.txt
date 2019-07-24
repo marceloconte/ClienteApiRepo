@@ -52,3 +52,30 @@ C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.csproj.CopyComplete
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.dll
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Test.deps.json
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Test.runtimeconfig.json
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Test.runtimeconfig.dev.json
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Test.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Test.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Stubs.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\ClientesAPI.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Application.Services.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Mongo.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\Clientes.Stubs.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\bin\Debug\netcoreapp2.1\ClientesAPI.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.csprojAssemblyReference.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.AssemblyInfoInputs.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.AssemblyInfo.cs
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.csproj.CopyComplete
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Test\obj\Debug\netcoreapp2.1\Clientes.Test.pdb

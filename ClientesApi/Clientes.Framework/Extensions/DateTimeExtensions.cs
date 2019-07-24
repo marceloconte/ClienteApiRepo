@@ -28,7 +28,7 @@ namespace Clientes.Framework
         public static int ToAge(this DateTime value)
         {
             var birthdate = value;
-            var today = new DateTime(2000, 1, 9);
+            var today = DateTime.Now;
             var age = today.Year - birthdate.Year;
             if (birthdate > today.AddYears(-age)) age--;
 

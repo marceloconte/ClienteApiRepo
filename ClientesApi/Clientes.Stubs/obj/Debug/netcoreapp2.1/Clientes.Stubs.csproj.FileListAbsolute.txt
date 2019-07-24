@@ -26,3 +26,17 @@ C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.csproj.CopyComplete
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.dll
 C:\PROJETOS LOCAIS\ClientesApi\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Stubs.deps.json
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Stubs.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Stubs.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Framework.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Domain.Data.Entities.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Stubs\bin\Debug\netcoreapp2.1\Clientes.Framework.pdb
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.csprojAssemblyReference.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.AssemblyInfoInputs.cache
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.AssemblyInfo.cs
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.csproj.CopyComplete
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.dll
+C:\Users\marcelo.barbosa\ClienteApiRepo\ClientesApi\Clientes.Stubs\obj\Debug\netcoreapp2.1\Clientes.Stubs.pdb
